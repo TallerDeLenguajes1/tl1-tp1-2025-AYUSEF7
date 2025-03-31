@@ -15,7 +15,7 @@ Para configurar el archivo, debemos saber que existen ciertos formatos de patron
 
 ### :question: 2.3c.- Revise los archivos subidos en su repositorio de github. ¿Qué archivos vé? ¿Cuál cree que no hace falta que esté?
 
-:black_nib: Se pueden ver dos archivos: `README.md`, `tp1_1.c`, `Rtp1_1.c`, `.gitignore` y la carpeta `output` que contiene ejecutables, por lo que es innecesaria y no sera incluida en los repositorios.
+:black_nib: Se pueden ver dos archivos: `README.md`, `tp1_1.c`, `tp1_2.c`, `.gitignore` y la carpeta `output` que contiene ejecutables, por lo que es innecesaria y no sera incluida en los repositorios.
 
 ### :question: 2.3g.- Si resolvió correctamente los apartados 2 y 3 del punto anterior notará que el resultado es el mismo. ¿a qué se debe? ¿Qué obtiene en el punto 4? ¿Es igual a los anteriores? ¿Por qué? Responder en el archivo readme.md
 
